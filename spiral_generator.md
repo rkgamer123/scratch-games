@@ -27,4 +27,4 @@ An interactive Scratch game focused on timing, movement, and score tracking. The
 - Organizing Scratch scripts across sprites
 
 ## Files
-- `SPIRAL GENERATOR.sb3` – Downloadable Scratch project file
+- `spiral_generator.sb3` – Downloadable Scratch project file
